@@ -42,6 +42,8 @@
   color: black;
   font-size: 26px;
   border-bottom: 1px solid #dfdfdf;
+  font-family: 'nobileregular', sans-serif;
+  font-weight: bold;
 }
 
 header {
@@ -50,4 +52,10 @@ header {
 
 hr {
   clear:both;
+}
+
+h1, h2 {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: 600;
+  letter-spacing: -1.5px;
 }
